@@ -38,7 +38,7 @@ bottom.
 
 if(top>bottom)
 {
-	System.out.println("sorted- Test case Pass")
+	System.out.println("sorted- Test case Passed")
 	
 }
 
