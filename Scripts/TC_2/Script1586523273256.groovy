@@ -24,7 +24,23 @@ WebUI.click(findTestObject('Object Repository/Page_CityFALCON Trending Topics an
 
 WebUI.click(findTestObject('Object Repository/Page_CityFALCON Trending Topics and Stories/i_More_img desktop far fa-angle-down'))
 
-WebUI.click(findTestObject('Object Repository/Page_CityFALCON Trending Topics and Stories/span_64'))
+WebElement first =  WebUI.click(findTestObject('Object Repository/Page_CityFALCON Trending Topics and Stories/[1]'))
+
+int top = first.toString();
+
+top.intValue();
+
+WebElement second = WebUI.click(findTestObject('Object Repository/Page_CityFALCON Trending Topics and Stories/[2]'))
+
+int bottom = second.toString()
+
+bottom.
+
+if(top>bottom)
+{
+	System.out.println("sorted- Test case Pass")
+	
+}
 
 WebUI.closeBrowser()
 
