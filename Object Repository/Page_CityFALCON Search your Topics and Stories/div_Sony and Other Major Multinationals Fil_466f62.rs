@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sony and Other Major Multinationals Fil_466f62</name>
+   <tag></tag>
+   <elementGuidId>3e24248b-4be6-4835-ba8b-569c56344b09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='GlobalRoutes-react-component-add3cc96-9ad5-4cf5-85aa-f269cd84075b']/div/div[2]/article/section[2]/div/article/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Card__content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sony and Other Major Multinationals File 212 Blockchain Patents in China in 2020Cointelegraph21 hours ago35 multinational companies have applied for 212 blockchain-related patents in China, including Microsoft and Mastercard9Number of similar stories on Twitter and news publications.28%CityFALCON Score showing relevance of story to you and your chosen topics.How does it work?More</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalRoutes-react-component-add3cc96-9ad5-4cf5-85aa-f269cd84075b&quot;)/div[1]/div[2]/article[@class=&quot;styles__search-page___1I9Vr&quot;]/section[2]/div[@class=&quot;styles__search-result___3o0HR&quot;]/article[1]/div[@class=&quot;styles__stories___3APy-&quot;]/div[@class=&quot;Card&quot;]/div[@class=&quot;Card__content&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalRoutes-react-component-add3cc96-9ad5-4cf5-85aa-f269cd84075b']/div/div[2]/article/section[2]/div/article/div[2]/div[4]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[5]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How does it work?'])[3]/following::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div[2]/div[4]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

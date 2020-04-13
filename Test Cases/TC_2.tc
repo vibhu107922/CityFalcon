@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sorting Order of stories</description>
+   <name>TC_2</name>
+   <tag>web</tag>
+   <comment></comment>
+   <testCaseGuid>a596442b-64a4-477d-a87c-73bdacb5f203</testCaseGuid>
+</TestCaseEntity>

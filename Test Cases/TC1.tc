@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search queries within the search bar</description>
+   <name>TC1</name>
+   <tag>Web</tag>
+   <comment></comment>
+   <testCaseGuid>02218b4b-8887-4fa3-a410-7f48bb1fe2ef</testCaseGuid>
+</TestCaseEntity>

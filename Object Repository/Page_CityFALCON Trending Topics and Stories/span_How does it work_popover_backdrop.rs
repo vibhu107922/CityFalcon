@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_How does it work_popover_backdrop</name>
+   <tag></tag>
+   <elementGuidId>f923eb3e-6f1c-4135-a337-fff615a1a330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Trending__maintabs-tabpane-1']/div/div[3]/div/div/div/div[2]/div/span[2]/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popover_backdrop</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Trending__maintabs-tabpane-1&quot;)/div[@class=&quot;styles__TendingStories___1P78t&quot;]/div[@class=&quot;styles__TendingStories__head--cards___3rovA&quot;]/div[@class=&quot;styles__stories___1ylCk&quot;]/div[@class=&quot;Card&quot;]/div[@class=&quot;Card__content&quot;]/div[@class=&quot;Card__content--details&quot;]/div[@class=&quot;details-header&quot;]/span[@class=&quot;details-header__statistics&quot;]/span[@class=&quot;popover_backdrop&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Trending__maintabs-tabpane-1']/div/div[3]/div/div/div/div[2]/div/span[2]/span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+   </webElementXpaths>
+</WebElementEntity>

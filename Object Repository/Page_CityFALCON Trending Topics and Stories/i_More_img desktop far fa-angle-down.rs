@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_More_img desktop far fa-angle-down</name>
+   <tag></tag>
+   <elementGuidId>b5247a49-9384-41a9-8494-084cb9101fcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Trending__maintabs-tabpane-1']/div/div[3]/div/div/div/div[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img desktop far fa-angle-down</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Trending__maintabs-tabpane-1&quot;)/div[@class=&quot;styles__TendingStories___1P78t&quot;]/div[@class=&quot;styles__TendingStories__head--cards___3rovA&quot;]/div[@class=&quot;styles__stories___1ylCk&quot;]/div[@class=&quot;Card&quot;]/div[@class=&quot;Card__content&quot;]/div[@class=&quot;Card__content--expand&quot;]/span[@class=&quot;expand-btn&quot;]/i[@class=&quot;img desktop far fa-angle-down&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Trending__maintabs-tabpane-1']/div/div[3]/div/div/div/div[3]/span/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/i</value>
+   </webElementXpaths>
+</WebElementEntity>

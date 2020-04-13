@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Search for Topics and Stories_styles__107cce</name>
+   <tag></tag>
+   <elementGuidId>31c58406-e20c-4ac9-ad48-953d924b4e23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles__input___1DA5N</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search financial securities, topics, countries, sectors...</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GlobalRoutes-react-component-add3cc96-9ad5-4cf5-85aa-f269cd84075b&quot;)/div[1]/div[2]/article[@class=&quot;styles__search-page___1I9Vr&quot;]/section[1]/div[1]/div[@class=&quot;styles__search_bar___VHB4C styles__button_disabled___JV-je styles__fixed_searchbar___14QbF&quot;]/div[@class=&quot;styles__input_wrapper___1GFJz&quot;]/div[@class=&quot;styles__input_imitation___1dAOZ&quot;]/fieldset[1]/input[@class=&quot;styles__input___1DA5N&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='GlobalRoutes-react-component-add3cc96-9ad5-4cf5-85aa-f269cd84075b']/div/div[2]/article/section/div/div/div[2]/div/fieldset/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/input</value>
+   </webElementXpaths>
+</WebElementEntity>
